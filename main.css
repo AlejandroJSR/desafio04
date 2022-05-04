@@ -106,6 +106,7 @@ body{
 }
 .retiros-home {
     text-align: center;
+    color: red;
 
 }
 .ws-boton {
@@ -215,7 +216,11 @@ body{
 
     .mapa-home {
         display: grid;
-        grid-template-columns: 1fr 1fr}}
+        grid-template-columns: 1fr 1fr}
+
+    .retiros-home {
+        color: red;
+    }
 
     .pag-mayorista {
         display: inline;
